@@ -1,0 +1,91 @@
+id,project_name,batch,code_files,images_pdfs,embedded_archives,lines,serial,i2c,spi,wifi,bluetooth,gsm,gps,lora,rf,interrupts,pwm,timing,servo,motor,sensor,display,storage,validation_source
+1,1 - DHT11_DHT22,60-80ard,1,1,0,53,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,uploaded_project_source
+6,6 - DS1307_DS3231 Real Time Clock (RTC),60-80ard,1,1,0,116,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,uploaded_project_source
+8,8 - HC-SR04 Ultrasonic,20Projects,2,1,0,72,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,uploaded_project_source
+11,11 - Microphone Sound,80-100ard,1,1,0,23,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,uploaded_project_source
+13,13 - MRFC522 RFID,60-80ard,1,1,0,55,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+14,14 - Relay,80-100ard,1,1,0,44,True,True,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,uploaded_project_source
+15,15 - nRF24L01,20Projects,2,3,0,107,True,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,uploaded_project_source
+17,17 - OLED Display,60-80ard,1,1,0,62,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,uploaded_project_source
+18,18 - Dot Matrix,80-100ard,1,1,0,71,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,uploaded_project_source
+20,20 - Membrane Keypad,60-80ard,1,2,0,26,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+22,22 - SIM900 GSM GPRS Shield,20Projects,4,3,0,165,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,True,False,uploaded_project_source
+25,25 - temp meter,80-100ard,1,1,0,69,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,uploaded_project_source
+26,26 - Wireless Temperature and Humidity Monitoring system,20Projects,4,2,0,259,True,False,False,False,True,True,False,False,True,True,False,True,False,False,True,True,False,uploaded_project_source
+27,27 - WiFiTank,80-100ard,1,1,0,343,True,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False,False,uploaded_project_source
+30,30 - 10_Channel_NRF_Transmitter_Receiver,20Projects,3,2,0,256,True,False,True,False,True,False,False,False,True,False,False,True,True,False,False,False,False,uploaded_project_source
+36,36 - Arduino_and_GSM_based_Prepaid_Energy_Meter,80-100ard,1,2,0,367,True,False,False,False,True,True,False,True,False,False,False,True,False,False,False,True,True,uploaded_project_source
+39,39 - Arduino_pH_Meter,60-80ard,1,2,0,59,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,uploaded_project_source
+45,45 - Automatic_School_Bell_Controller,20-40ard,1,2,0,416,False,True,False,False,True,False,False,False,False,True,False,True,False,True,False,True,True,uploaded_project_source
+50,50 - Balanced Robot,20Projects,12,1,0,9150,True,True,True,False,True,False,False,False,False,True,True,True,False,True,True,True,False,uploaded_project_source
+51,51 - Ball Beam Arduino Code HCSR-04,20Projects,1,2,0,56,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,uploaded_project_source
+52,52 - BLDC_Ardunio_ESC,20Projects,1,1,0,181,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,uploaded_project_source
+53,53 - Bluetooth_Car_HC05_HCSR04,80-100ard,1,0,0,116,True,False,False,False,True,False,False,False,False,False,True,False,True,True,True,False,False,uploaded_project_source
+61,61 - Cam_Control_Robot,20-40ard,3,1,0,899,True,False,False,False,True,False,False,False,False,False,True,True,False,True,False,False,False,uploaded_project_source
+63,63 - Camera_Car_With_PanTilt_Mecanum_Wheels,20-40ard,2,1,0,695,True,False,False,True,True,False,False,False,False,False,True,True,True,True,False,False,False,uploaded_project_source
+66,66 - Car_Parking_System_LCD,60-80ard,1,2,0,121,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,uploaded_project_source
+71,71 - Countdown_Timer_With_7Segment,60-80ard,1,2,0,321,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,True,True,uploaded_project_source
+79,79 - DC_Motor_Speed_Controller,80-100ard,1,2,0,77,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,uploaded_project_source
+84,84 - Digital_Weight_Scale,20-40ard,3,1,0,169,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,uploaded_project_source
+88,88 - Dual_Axis_Solar_Tracker,40-60ard,0,4,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+90,90 - ESP_AsyncWebServer_HomeAutomation,20Projects,1,1,0,280,True,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False,True,uploaded_project_source
+93,93 - ESPNOW_Car,80-100ard,3,2,0,332,True,False,False,True,True,False,False,False,True,False,True,True,False,True,False,False,False,uploaded_project_source
+94,94 - ESPNOW_Multiple_Cars,80-100ard,2,2,0,319,True,False,False,True,True,False,False,False,True,False,True,True,False,True,False,False,False,uploaded_project_source
+95,95 - ESPNOW_RC_Tractor,20Projects,3,2,0,301,True,False,False,True,True,False,False,False,True,False,True,True,True,True,False,False,False,uploaded_project_source
+96,96 - ESPNOW_Transmitter_Receiver,20Projects,4,2,0,407,True,False,False,True,False,False,False,False,True,False,False,True,True,False,False,False,False,uploaded_project_source
+97,97 - FingerPrint_Lock_System,40-60ard,2,1,0,272,True,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False,uploaded_project_source
+100,100 - Flame_Sensor,60-80ard,1,4,0,54,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,uploaded_project_source
+103,103 - Gesture_Controlled_Mecanum_Wheel_Car,20-40ard,3,2,0,400,True,True,False,True,True,False,False,False,True,False,True,True,False,True,True,False,False,uploaded_project_source
+104,104 - Gesture Controlled Car,20-40ard,3,2,0,428,True,True,True,False,True,False,False,False,True,True,True,True,False,True,True,True,False,uploaded_project_source
+108,108 - GSM_GPS_Uno,20Projects,1,2,0,183,True,True,False,False,True,True,True,True,True,False,False,True,False,False,True,False,False,uploaded_project_source
+110,110 - HC05_Master_Slave_Car,20Projects,3,3,0,219,True,False,False,False,True,True,False,True,False,False,True,True,False,True,False,False,False,uploaded_project_source
+121,121 - Joystick_BT_Robot,40-60ard,1,1,0,141,True,False,False,False,True,True,False,False,False,False,True,False,False,True,False,False,False,uploaded_project_source
+127,127 - BLDC_Joystcik_ESP32,40-60ard,2,1,0,45,True,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,uploaded_project_source
+128,128 - BLDC_Speed_Control,40-60ard,2,1,0,41,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,uploaded_project_source
+145,145 - StepperMotor,40-60ard,4,1,0,80,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,uploaded_project_source
+154,154 - Line_Follower_Hc-Sr04_Robot,40-60ard,0,0,1,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+161,161 - Obstacle_Avoiding_Robot,20-40ard,3,1,0,936,True,False,False,False,True,False,False,False,False,False,True,True,True,True,False,False,False,uploaded_project_source
+166,166 - PanTiltCamera,20Projects,1,1,0,417,True,False,False,True,True,False,False,False,False,False,True,True,True,False,False,False,False,uploaded_project_source
+167,167 - Parallel Parking Car,20-40ard,3,2,0,291,True,False,False,True,True,False,False,False,True,False,True,False,True,True,False,False,False,uploaded_project_source
+168,168 - Password_based_Door_Locking_System,40-60ard,0,0,1,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+169,169 - PIR_and_LDR_Sensor,80-100ard,3,2,0,388,True,False,False,False,True,False,False,False,False,False,False,True,False,False,True,False,False,uploaded_project_source
+171,171 - Prepaid_Energy_Meter_with_Theft_Alert,20-40ard,1,3,0,260,True,False,False,False,True,True,False,True,True,True,False,False,False,False,False,True,True,uploaded_project_source
+173,173 - PS3 Controlled Car,80-100ard,3,1,0,267,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,uploaded_project_source
+174,174 - PS4_Mecanum_Wheels_Car,40-60ard,1,1,0,255,True,False,False,False,True,False,False,False,False,False,True,True,False,True,False,False,False,uploaded_project_source
+175,175 - PS4Controller_ESP32,20-40ard,4,1,0,170,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,uploaded_project_source
+179,179 - Radar_System,20-40ard,1,1,0,117,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,uploaded_project_source
+180,180 - Rain_Detector_Alert_System,80-100ard,1,2,0,67,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,uploaded_project_source
+181,181 - RC Car,20-40ard,2,2,0,247,True,False,True,False,True,False,False,False,True,False,True,True,False,True,False,False,False,uploaded_project_source
+183,183 - Real_Time_Clock_With_Alarm,20-40ard,1,2,1,298,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,uploaded_project_source
+184,184 - Real_Time_Clock_With_Timer,80-100ard,1,2,1,369,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,uploaded_project_source
+187,187 - RF_Touch_Control_4Load,20-40ard,3,1,0,959,True,False,False,False,True,False,False,True,True,True,False,True,False,True,False,False,True,uploaded_project_source
+188,188 - RFID_based_Vehicle_Barrier_Control,20Projects,3,1,0,1724,True,True,True,False,True,False,False,False,False,True,True,True,True,True,False,False,False,uploaded_project_source
+196,196 - Snake_Game,20-40ard,3,2,0,951,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False,uploaded_project_source
+198,198 - Stepper_Motor_A4988,40-60ard,1,2,0,83,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,uploaded_project_source
+199,199 - Stepper_Motor_L298,40-60ard,1,2,0,119,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,uploaded_project_source
+201,201 - Stopwatch_MAX7219_7Segment_Display,80-100ard,1,2,0,101,False,False,True,False,True,False,False,False,False,True,False,True,False,True,False,True,False,uploaded_project_source
+203,203 - Talking_Clock_with_RTC_DS1307,40-60ard,0,0,1,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+206,206 - Temperature_and_Humidity_Monitoring_System,20Projects,3,1,0,225,True,False,False,False,True,True,False,False,False,False,False,True,False,False,True,True,False,uploaded_project_source
+210,210 - Temperature_Meter_Thermocouple,60-80ard,1,2,0,95,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,uploaded_project_source
+214,214 - TIMI-Display,40-60ard,3,3,0,86,True,False,False,False,False,True,False,False,False,False,False,False,False,True,True,True,False,uploaded_project_source
+217,217 - Ultrasonic_Radar_Matlab,60-80ard,1,2,0,68,True,False,False,False,False,False,False,False,False,False,False,True,True,True,True,False,False,uploaded_project_source
+224,224 - Wifi_Robot_AP_Web_Server,20Projects,1,4,1,304,True,False,False,True,True,False,False,False,False,False,True,False,False,True,False,True,False,uploaded_project_source
+225,225 - Wifi_Robot,80-100ard,1,3,0,192,True,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False,False,uploaded_project_source
+234,234 - Solar Panel Tracking,40-60ard,1,1,0,26,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,uploaded_project_source
+242,242 - LCD + Keypad Demo,60-80ard,1,1,0,34,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,uploaded_project_source
+275,275 - IR_Receiver-Decoder,40-60ard,1,1,0,25,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+276,276 - LoRa_AT,60-80ard,2,1,0,102,True,False,False,False,True,True,False,True,False,False,False,False,False,True,False,False,False,uploaded_project_source
+287,287 - Arduino RFID Based Door Lock,60-80ard,1,1,0,168,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,uploaded_project_source
+292,292 - L293D Motor Shield Examples,20-40ard,14,2,1,3483,True,True,False,False,True,False,False,False,False,False,True,True,True,True,True,True,False,uploaded_project_source
+294,294 - UNO Car Parking System (6 Slots),60-80ard,1,3,0,194,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,uploaded_project_source
+296,296 - UNO DOT Matrix LED,20-40ard,5,5,0,1142,False,False,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,uploaded_project_source
+297,297 - UNO DS18B20 Sensor,20Projects,8,3,0,1571,True,True,False,False,True,False,False,False,False,True,False,True,False,True,True,True,False,uploaded_project_source
+298,298 - UNO GAS Sensor MQ Series,60-80ard,3,2,0,135,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,uploaded_project_source
+299,299 - UNO GPS Sensor,20-40ard,4,1,0,789,True,False,False,False,True,True,True,False,False,False,False,True,False,False,True,False,False,uploaded_project_source
+314,314 - UNO Stepper Motor,20Projects,3,2,0,65,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,uploaded_project_source
+318,318 - UNO_DC_Motor,80-100ard,3,0,0,147,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,uploaded_project_source
+327,327 - ATMEGA328 Snake Game using Push Buttons and Dot Matrix,20-40ard,12,0,0,1663,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,True,False,uploaded_project_source
+369,369 - clock-phone,20-40ard,3,0,0,375,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+384,384 - Dual Axis Solar Tracker With Temperature and Humidity,80-100ard,0,1,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source
+421,421 - LoRa_AT,20Projects,2,1,0,102,True,False,False,False,True,True,False,True,False,False,False,False,False,True,False,False,False,uploaded_project_source
+458,458 - shift-register-7segment-count,60-80ard,1,1,0,35,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,uploaded_project_source

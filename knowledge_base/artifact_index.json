@@ -1,0 +1,1482 @@
+{
+  "project": "CircuitSage",
+  "version": "1.0",
+  "canonical_project_count": 89,
+  "total_artifacts": 143,
+  "projects": [
+    {
+      "project_id": "1 - DHT11_DHT22",
+      "project_name": "1 - DHT11_DHT22",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/1 - DHT11_DHT22/Schematics/Schematics.jpg",
+          "type": "image",
+          "filename": "Schematics.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "100 - Flame_Sensor",
+      "project_name": "100 - Flame_Sensor",
+      "artifact_count": 4,
+      "artifacts": [
+        {
+          "path": "data/canonical/100 - Flame_Sensor/How to make a Fire Detection System using Arduino NaNo and Flame Sensor.png",
+          "type": "image",
+          "filename": "How to make a Fire Detection System using Arduino NaNo and Flame Sensor.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/100 - Flame_Sensor/How to make a Fire Detection System using Arduino UNO and Flame Sensor.png",
+          "type": "image",
+          "filename": "How to make a Fire Detection System using Arduino UNO and Flame Sensor.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/100 - Flame_Sensor/How to make a Fire Detection System using Arduino and Flame Sensor.png",
+          "type": "image",
+          "filename": "How to make a Fire Detection System using Arduino and Flame Sensor.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/100 - Flame_Sensor/How to make a Fire Detection System using Arduino and Flame Sensor1.png",
+          "type": "image",
+          "filename": "How to make a Fire Detection System using Arduino and Flame Sensor1.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "103 - Gesture_Controlled_Mecanum_Wheel_Car",
+      "project_name": "103 - Gesture_Controlled_Mecanum_Wheel_Car",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/103 - Gesture_Controlled_Mecanum_Wheel_Car/Diagrams/Car Receiver.png",
+          "type": "image",
+          "filename": "Car Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/103 - Gesture_Controlled_Mecanum_Wheel_Car/Diagrams/Car Transmitter.png",
+          "type": "image",
+          "filename": "Car Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "104 - Gesture Controlled Car",
+      "project_name": "104 - Gesture Controlled Car",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/104 - Gesture Controlled Car/Diagrams/GestureControlledCar_Receiver.png",
+          "type": "image",
+          "filename": "GestureControlledCar_Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/104 - Gesture Controlled Car/Diagrams/GestureControlledCar_Transmitter.png",
+          "type": "image",
+          "filename": "GestureControlledCar_Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "108 - GSM_GPS_Uno",
+      "project_name": "108 - GSM_GPS_Uno",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/108 - GSM_GPS_Uno/GSM GPS.png",
+          "type": "image",
+          "filename": "GSM GPS.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/108 - GSM_GPS_Uno/Gsm GPS.pdf",
+          "type": "pdf",
+          "filename": "Gsm GPS.pdf",
+          "extension": ".pdf"
+        }
+      ]
+    },
+    {
+      "project_id": "11 - Microphone Sound",
+      "project_name": "11 - Microphone Sound",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/11 - Microphone Sound/Schematics/Schematics.png",
+          "type": "image",
+          "filename": "Schematics.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "110 - HC05_Master_Slave_Car",
+      "project_name": "110 - HC05_Master_Slave_Car",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/110 - HC05_Master_Slave_Car/Diagrams/Configure HC05 Master Slave.png",
+          "type": "image",
+          "filename": "Configure HC05 Master Slave.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/110 - HC05_Master_Slave_Car/Diagrams/Receiver HC05 Slave.png",
+          "type": "image",
+          "filename": "Receiver HC05 Slave.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/110 - HC05_Master_Slave_Car/Diagrams/Transmitter HC05 Master.png",
+          "type": "image",
+          "filename": "Transmitter HC05 Master.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "121 - Joystick_BT_Robot",
+      "project_name": "121 - Joystick_BT_Robot",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/121 - Joystick_BT_Robot/Joystick_BT_Robot.png",
+          "type": "image",
+          "filename": "Joystick_BT_Robot.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "127 - BLDC_Joystcik_ESP32",
+      "project_name": "127 - BLDC_Joystcik_ESP32",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/127 - BLDC_Joystcik_ESP32/BLDC Joystick ESP32.png",
+          "type": "image",
+          "filename": "BLDC Joystick ESP32.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "128 - BLDC_Speed_Control",
+      "project_name": "128 - BLDC_Speed_Control",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/128 - BLDC_Speed_Control/BLDC Motor.png",
+          "type": "image",
+          "filename": "BLDC Motor.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "13 - MRFC522 RFID",
+      "project_name": "13 - MRFC522 RFID",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/13 - MRFC522 RFID/Schematics/RFID.png",
+          "type": "image",
+          "filename": "RFID.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "14 - Relay",
+      "project_name": "14 - Relay",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/14 - Relay/Schematics/Relay_Module.png",
+          "type": "image",
+          "filename": "Relay_Module.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "145 - StepperMotor",
+      "project_name": "145 - StepperMotor",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/145 - StepperMotor/Stepper Motor.png",
+          "type": "image",
+          "filename": "Stepper Motor.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "15 - nRF24L01",
+      "project_name": "15 - nRF24L01",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/15 - nRF24L01/Schematics/24L01Pinout.jpg",
+          "type": "image",
+          "filename": "24L01Pinout.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/15 - nRF24L01/Schematics/nrf client.png",
+          "type": "image",
+          "filename": "nrf client.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/15 - nRF24L01/Schematics/nrf server.png",
+          "type": "image",
+          "filename": "nrf server.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "154 - Line_Follower_Hc-Sr04_Robot",
+      "project_name": "154 - Line_Follower_Hc-Sr04_Robot",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "161 - Obstacle_Avoiding_Robot",
+      "project_name": "161 - Obstacle_Avoiding_Robot",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/161 - Obstacle_Avoiding_Robot/Obstacle Avoiding Robot using Arduino and L293d.jpg",
+          "type": "image",
+          "filename": "Obstacle Avoiding Robot using Arduino and L293d.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "166 - PanTiltCamera",
+      "project_name": "166 - PanTiltCamera",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/166 - PanTiltCamera/Diagrams/PanTiltCamera.png",
+          "type": "image",
+          "filename": "PanTiltCamera.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "167 - Parallel Parking Car",
+      "project_name": "167 - Parallel Parking Car",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/167 - Parallel Parking Car/Diagrams/Parallel Parking Car Receiver.png",
+          "type": "image",
+          "filename": "Parallel Parking Car Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/167 - Parallel Parking Car/Diagrams/Parallel Parking Car Transmitter.png",
+          "type": "image",
+          "filename": "Parallel Parking Car Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "168 - Password_based_Door_Locking_System",
+      "project_name": "168 - Password_based_Door_Locking_System",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "169 - PIR_and_LDR_Sensor",
+      "project_name": "169 - PIR_and_LDR_Sensor",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/169 - PIR_and_LDR_Sensor/How to make Night Security Light Control using Arduino, PIR Sensor and LDR Sensor.png",
+          "type": "image",
+          "filename": "How to make Night Security Light Control using Arduino, PIR Sensor and LDR Sensor.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/169 - PIR_and_LDR_Sensor/Night Security Light Control using Arduino, PIR Sensor and LDR Sensor.png",
+          "type": "image",
+          "filename": "Night Security Light Control using Arduino, PIR Sensor and LDR Sensor.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "17 - OLED Display",
+      "project_name": "17 - OLED Display",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/17 - OLED Display/Schematics/Schematics.png",
+          "type": "image",
+          "filename": "Schematics.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "171 - Prepaid_Energy_Meter_with_Theft_Alert",
+      "project_name": "171 - Prepaid_Energy_Meter_with_Theft_Alert",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/171 - Prepaid_Energy_Meter_with_Theft_Alert/Arduino and GSM based Prepaid Energy Meter with Theft Alert.png",
+          "type": "image",
+          "filename": "Arduino and GSM based Prepaid Energy Meter with Theft Alert.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/171 - Prepaid_Energy_Meter_with_Theft_Alert/Arduino and GSM based Prepaid Energy Meter.png",
+          "type": "image",
+          "filename": "Arduino and GSM based Prepaid Energy Meter.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/171 - Prepaid_Energy_Meter_with_Theft_Alert/How to make Arduino and GSM based Prepaid Energy Meter with Theft Alert.png",
+          "type": "image",
+          "filename": "How to make Arduino and GSM based Prepaid Energy Meter with Theft Alert.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "173 - PS3 Controlled Car",
+      "project_name": "173 - PS3 Controlled Car",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/173 - PS3 Controlled Car/Diagrams/PS3 Controlled Car.png",
+          "type": "image",
+          "filename": "PS3 Controlled Car.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "174 - PS4_Mecanum_Wheels_Car",
+      "project_name": "174 - PS4_Mecanum_Wheels_Car",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/174 - PS4_Mecanum_Wheels_Car/Diagrams/PS4 Controller Mecanum Wheel Car.png",
+          "type": "image",
+          "filename": "PS4 Controller Mecanum Wheel Car.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "175 - PS4Controller_ESP32",
+      "project_name": "175 - PS4Controller_ESP32",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/175 - PS4Controller_ESP32/Diagrams/Demo Control LEDs.png",
+          "type": "image",
+          "filename": "Demo Control LEDs.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "179 - Radar_System",
+      "project_name": "179 - Radar_System",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/179 - Radar_System/Arduino Based Radar System Using Ultrasonic Sensor and Nokia 5110 LCD.jpg",
+          "type": "image",
+          "filename": "Arduino Based Radar System Using Ultrasonic Sensor and Nokia 5110 LCD.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "18 - Dot Matrix",
+      "project_name": "18 - Dot Matrix",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/18 - Dot Matrix/Schematics/Schematics.jpg",
+          "type": "image",
+          "filename": "Schematics.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "180 - Rain_Detector_Alert_System",
+      "project_name": "180 - Rain_Detector_Alert_System",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/180 - Rain_Detector_Alert_System/How to make Rain Detector Alert System using Arduino and LCD Display.png",
+          "type": "image",
+          "filename": "How to make Rain Detector Alert System using Arduino and LCD Display.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/180 - Rain_Detector_Alert_System/How to make a Rain Detector Alert System using Arduino and LCD Display.png",
+          "type": "image",
+          "filename": "How to make a Rain Detector Alert System using Arduino and LCD Display.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "181 - RC Car",
+      "project_name": "181 - RC Car",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/181 - RC Car/Diagrams/Car Receiver.png",
+          "type": "image",
+          "filename": "Car Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/181 - RC Car/Diagrams/Car Transmitter.png",
+          "type": "image",
+          "filename": "Car Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "183 - Real_Time_Clock_With_Alarm",
+      "project_name": "183 - Real_Time_Clock_With_Alarm",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/183 - Real_Time_Clock_With_Alarm/How to make Real Time Clock With Alarm using Arduino NaNo and RTC DS3231.png",
+          "type": "image",
+          "filename": "How to make Real Time Clock With Alarm using Arduino NaNo and RTC DS3231.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/183 - Real_Time_Clock_With_Alarm/How to make Real Time Clock With Alarm using Arduino UNO and RTC DS3231.png",
+          "type": "image",
+          "filename": "How to make Real Time Clock With Alarm using Arduino UNO and RTC DS3231.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "184 - Real_Time_Clock_With_Timer",
+      "project_name": "184 - Real_Time_Clock_With_Timer",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/184 - Real_Time_Clock_With_Timer/Real Time Clock With Timer.png",
+          "type": "image",
+          "filename": "Real Time Clock With Timer.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/184 - Real_Time_Clock_With_Timer/Real Time Clock with Timer1.png",
+          "type": "image",
+          "filename": "Real Time Clock with Timer1.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "187 - RF_Touch_Control_4Load",
+      "project_name": "187 - RF_Touch_Control_4Load",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/187 - RF_Touch_Control_4Load/How to make Touch and RF Remote Control For Home Appliances.png",
+          "type": "image",
+          "filename": "How to make Touch and RF Remote Control For Home Appliances.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "188 - RFID_based_Vehicle_Barrier_Control",
+      "project_name": "188 - RFID_based_Vehicle_Barrier_Control",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/188 - RFID_based_Vehicle_Barrier_Control/How to Make RFID based Automatic Vehicle Barrier Control System using Arduino  Smart Car Barrier System.png",
+          "type": "image",
+          "filename": "How to Make RFID based Automatic Vehicle Barrier Control System using Arduino  Smart Car Barrier System.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "196 - Snake_Game",
+      "project_name": "196 - Snake_Game",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/196 - Snake_Game/How to Make Snake Game with Dot Matrix Display and Arduino UNO.png",
+          "type": "image",
+          "filename": "How to Make Snake Game with Dot Matrix Display and Arduino UNO.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/196 - Snake_Game/How to Make Snake Game with Dot Matrix Display and Arduino.png",
+          "type": "image",
+          "filename": "How to Make Snake Game with Dot Matrix Display and Arduino.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "198 - Stepper_Motor_A4988",
+      "project_name": "198 - Stepper_Motor_A4988",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/198 - Stepper_Motor_A4988/How To Make Stepper Motor Speed Controller using Arduino and A4988 Motor Driver.png",
+          "type": "image",
+          "filename": "How To Make Stepper Motor Speed Controller using Arduino and A4988 Motor Driver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/198 - Stepper_Motor_A4988/Vref Voltage Setting Current Limit for A4988 with Multimeter.png",
+          "type": "image",
+          "filename": "Vref Voltage Setting Current Limit for A4988 with Multimeter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "199 - Stepper_Motor_L298",
+      "project_name": "199 - Stepper_Motor_L298",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/199 - Stepper_Motor_L298/How To Make a Stepper Motor Speed Controller using Arduino and L298 Motor Driver.png",
+          "type": "image",
+          "filename": "How To Make a Stepper Motor Speed Controller using Arduino and L298 Motor Driver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/199 - Stepper_Motor_L298/How To Make a Stepper Motor Speed Controller using Arduino.png",
+          "type": "image",
+          "filename": "How To Make a Stepper Motor Speed Controller using Arduino.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "20 - Membrane Keypad",
+      "project_name": "20 - Membrane Keypad",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/20 - Membrane Keypad/Schematics/how it works.png",
+          "type": "image",
+          "filename": "how it works.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/20 - Membrane Keypad/Schematics/membrane keyboard.png",
+          "type": "image",
+          "filename": "membrane keyboard.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "201 - Stopwatch_MAX7219_7Segment_Display",
+      "project_name": "201 - Stopwatch_MAX7219_7Segment_Display",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/201 - Stopwatch_MAX7219_7Segment_Display/How to make Stopwatch with 7 Segment Display Module MAX7219.png",
+          "type": "image",
+          "filename": "How to make Stopwatch with 7 Segment Display Module MAX7219.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/201 - Stopwatch_MAX7219_7Segment_Display/How to make Stopwatch with 7Segment Display Module MAX7219.png",
+          "type": "image",
+          "filename": "How to make Stopwatch with 7Segment Display Module MAX7219.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "203 - Talking_Clock_with_RTC_DS1307",
+      "project_name": "203 - Talking_Clock_with_RTC_DS1307",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "206 - Temperature_and_Humidity_Monitoring_System",
+      "project_name": "206 - Temperature_and_Humidity_Monitoring_System",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/206 - Temperature_and_Humidity_Monitoring_System/Temperature and Humidity Monitoring System using Arduino, dht11 and hc-05 bluetooth module.png",
+          "type": "image",
+          "filename": "Temperature and Humidity Monitoring System using Arduino, dht11 and hc-05 bluetooth module.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "210 - Temperature_Meter_Thermocouple",
+      "project_name": "210 - Temperature_Meter_Thermocouple",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/210 - Temperature_Meter_Thermocouple/how to measure temperature using thermocouple and  MAX6675.png",
+          "type": "image",
+          "filename": "how to measure temperature using thermocouple and  MAX6675.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/210 - Temperature_Meter_Thermocouple/how to measure temperature using thermocouple and MAX6675 Interfacing Thermocouple with Arduino.png",
+          "type": "image",
+          "filename": "how to measure temperature using thermocouple and MAX6675 Interfacing Thermocouple with Arduino.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "214 - TIMI-Display",
+      "project_name": "214 - TIMI-Display",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/214 - TIMI-Display/Diagrams/TIMI Display Gauge Digit Arduino.png",
+          "type": "image",
+          "filename": "TIMI Display Gauge Digit Arduino.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/214 - TIMI-Display/Diagrams/TIMI Display Gauge Digit esp32.png",
+          "type": "image",
+          "filename": "TIMI Display Gauge Digit esp32.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/214 - TIMI-Display/Diagrams/TIMI Display Temperature Humidity Arduino.png",
+          "type": "image",
+          "filename": "TIMI Display Temperature Humidity Arduino.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "217 - Ultrasonic_Radar_Matlab",
+      "project_name": "217 - Ultrasonic_Radar_Matlab",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/217 - Ultrasonic_Radar_Matlab/How to Make Ultrasonic Radar using Arduino and Matlab.jpg",
+          "type": "image",
+          "filename": "How to Make Ultrasonic Radar using Arduino and Matlab.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/217 - Ultrasonic_Radar_Matlab/How to Make Ultrasonic Radar using Arduino and Matlab.png",
+          "type": "image",
+          "filename": "How to Make Ultrasonic Radar using Arduino and Matlab.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "22 - SIM900 GSM GPRS Shield",
+      "project_name": "22 - SIM900 GSM GPRS Shield",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/22 - SIM900 GSM GPRS Shield/Schematics/GSM-Arduino-automatic-turn-on.jpg",
+          "type": "image",
+          "filename": "GSM-Arduino-automatic-turn-on.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/22 - SIM900 GSM GPRS Shield/Schematics/GSM-Arduino.png",
+          "type": "image",
+          "filename": "GSM-Arduino.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/22 - SIM900 GSM GPRS Shield/Schematics/GSM-FTDI.png",
+          "type": "image",
+          "filename": "GSM-FTDI.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "224 - Wifi_Robot_AP_Web_Server",
+      "project_name": "224 - Wifi_Robot_AP_Web_Server",
+      "artifact_count": 4,
+      "artifacts": [
+        {
+          "path": "data/canonical/224 - Wifi_Robot_AP_Web_Server/Body_Desien.pdf",
+          "type": "pdf",
+          "filename": "Body_Desien.pdf",
+          "extension": ".pdf"
+        },
+        {
+          "path": "data/canonical/224 - Wifi_Robot_AP_Web_Server/How to make IOT based Robot Control with ESP8266 as Web Server using WiFi Access Point to Mobile.jpg",
+          "type": "image",
+          "filename": "How to make IOT based Robot Control with ESP8266 as Web Server using WiFi Access Point to Mobile.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/224 - Wifi_Robot_AP_Web_Server/How to make IOT based Robot Control with ESP8266 as Web Server using WiFi Access Point to PC.png",
+          "type": "image",
+          "filename": "How to make IOT based Robot Control with ESP8266 as Web Server using WiFi Access Point to PC.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/224 - Wifi_Robot_AP_Web_Server/How to make IOT based Robot Control with ESP8266 as Web Server using WiFi Access Point.png",
+          "type": "image",
+          "filename": "How to make IOT based Robot Control with ESP8266 as Web Server using WiFi Access Point.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "225 - Wifi_Robot",
+      "project_name": "225 - Wifi_Robot",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/225 - Wifi_Robot/Body_Desien.pdf",
+          "type": "pdf",
+          "filename": "Body_Desien.pdf",
+          "extension": ".pdf"
+        },
+        {
+          "path": "data/canonical/225 - Wifi_Robot/How To Build a Wi-Fi Based Robot with Android Application Control.jpg",
+          "type": "image",
+          "filename": "How To Build a Wi-Fi Based Robot with Android Application Control.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/225 - Wifi_Robot/How To Build a Wi-Fi Based Robot with Android Application Control.png",
+          "type": "image",
+          "filename": "How To Build a Wi-Fi Based Robot with Android Application Control.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "234 - Solar Panel Tracking",
+      "project_name": "234 - Solar Panel Tracking",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/234 - Solar Panel Tracking/Solar Tracking System.png",
+          "type": "image",
+          "filename": "Solar Tracking System.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "242 - LCD + Keypad Demo",
+      "project_name": "242 - LCD + Keypad Demo",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/242 - LCD + Keypad Demo/LCD + Keypad.png",
+          "type": "image",
+          "filename": "LCD + Keypad.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "25 - temp meter",
+      "project_name": "25 - temp meter",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/25 - temp meter/Simulation.png",
+          "type": "image",
+          "filename": "Simulation.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "26 - Wireless Temperature and Humidity Monitoring system",
+      "project_name": "26 - Wireless Temperature and Humidity Monitoring system",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/26 - Wireless Temperature and Humidity Monitoring system/how to make Wireless Temperature and Humidity Monitoring system by Bluetooth.jpg",
+          "type": "image",
+          "filename": "how to make Wireless Temperature and Humidity Monitoring system by Bluetooth.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/26 - Wireless Temperature and Humidity Monitoring system/how to make Wireless Temperature and Humidity Monitoring system by Bluetooth.png",
+          "type": "image",
+          "filename": "how to make Wireless Temperature and Humidity Monitoring system by Bluetooth.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "27 - WiFiTank",
+      "project_name": "27 - WiFiTank",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/27 - WiFiTank/Diagrams/WiFi Tank.png",
+          "type": "image",
+          "filename": "WiFi Tank.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "275 - IR_Receiver-Decoder",
+      "project_name": "275 - IR_Receiver-Decoder",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/275 - IR_Receiver-Decoder/IR Decoder Connection.jpg",
+          "type": "image",
+          "filename": "IR Decoder Connection.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "276 - LoRa_AT",
+      "project_name": "276 - LoRa_AT",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/276 - LoRa_AT/Soil_Moisture/LoRa_Plant_Watering.pdf",
+          "type": "pdf",
+          "filename": "LoRa_Plant_Watering.pdf",
+          "extension": ".pdf"
+        }
+      ]
+    },
+    {
+      "project_id": "287 - Arduino RFID Based Door Lock",
+      "project_name": "287 - Arduino RFID Based Door Lock",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/287 - Arduino RFID Based Door Lock/Arduino RFID Door Secuirity.png",
+          "type": "image",
+          "filename": "Arduino RFID Door Secuirity.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "292 - L293D Motor Shield Examples",
+      "project_name": "292 - L293D Motor Shield Examples",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/292 - L293D Motor Shield Examples/Arduino Motor Shield L293D Circuit Diagram and Proteus Simulation.png",
+          "type": "image",
+          "filename": "Arduino Motor Shield L293D Circuit Diagram and Proteus Simulation.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/292 - L293D Motor Shield Examples/Obstacle Avoidance Robot/Obstacle Avoiding Robot using L293D Motor Shield.png",
+          "type": "image",
+          "filename": "Obstacle Avoiding Robot using L293D Motor Shield.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "294 - UNO Car Parking System (6 Slots)",
+      "project_name": "294 - UNO Car Parking System (6 Slots)",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/294 - UNO Car Parking System (6 Slots)/Arduino Parking System 1.0.png",
+          "type": "image",
+          "filename": "Arduino Parking System 1.0.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/294 - UNO Car Parking System (6 Slots)/UNO Parking System 1.0.PDF",
+          "type": "pdf",
+          "filename": "UNO Parking System 1.0.PDF",
+          "extension": ".pdf"
+        },
+        {
+          "path": "data/canonical/294 - UNO Car Parking System (6 Slots)/UNO Parking System 1.1.png",
+          "type": "image",
+          "filename": "UNO Parking System 1.1.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "296 - UNO DOT Matrix LED",
+      "project_name": "296 - UNO DOT Matrix LED",
+      "artifact_count": 5,
+      "artifacts": [
+        {
+          "path": "data/canonical/296 - UNO DOT Matrix LED/UNO_8x8_LED_Matrix_1.0/401768fcaa20cda6364bb7ac10e5a362.png",
+          "type": "image",
+          "filename": "401768fcaa20cda6364bb7ac10e5a362.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/296 - UNO DOT Matrix LED/UNO_8x8_LED_Matrix_1.0/619dBvv7r5L._AC_UF894,1000_QL80_.jpg",
+          "type": "image",
+          "filename": "619dBvv7r5L._AC_UF894,1000_QL80_.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/296 - UNO DOT Matrix LED/UNO_8x8_LED_Matrix_1.0/788BS_Scheme.png",
+          "type": "image",
+          "filename": "788BS_Scheme.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/296 - UNO DOT Matrix LED/UNO_8x8_LED_Matrix_1.0/788bs.jpg",
+          "type": "image",
+          "filename": "788bs.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/296 - UNO DOT Matrix LED/UNO_8x8_LED_Matrix_1.0/UNO 8X8 DOT Matrix LED Display.png",
+          "type": "image",
+          "filename": "UNO 8X8 DOT Matrix LED Display.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "297 - UNO DS18B20 Sensor",
+      "project_name": "297 - UNO DS18B20 Sensor",
+      "artifact_count": 3,
+      "artifacts": [
+        {
+          "path": "data/canonical/297 - UNO DS18B20 Sensor/UNO DS18B20 Sensor LCD 1.0/Arduino DS18B20 Sensor and LCD 1.0.jpg",
+          "type": "image",
+          "filename": "Arduino DS18B20 Sensor and LCD 1.0.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/297 - UNO DS18B20 Sensor/UNO DS18B20 Sensor LCD 1.0/Arduino DS18B20 Sensor and LCD 1.1.jpg",
+          "type": "image",
+          "filename": "Arduino DS18B20 Sensor and LCD 1.1.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/297 - UNO DS18B20 Sensor/UNO DS18B20 Sensor Serial 1.0/Arduino_DS18B20_Serial_1.0.jpg",
+          "type": "image",
+          "filename": "Arduino_DS18B20_Serial_1.0.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "298 - UNO GAS Sensor MQ Series",
+      "project_name": "298 - UNO GAS Sensor MQ Series",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/298 - UNO GAS Sensor MQ Series/UNO GAS Sensor MQ-7 with LCD/Arduino Gas Sensor MQ-7 and LCD.jpg",
+          "type": "image",
+          "filename": "Arduino Gas Sensor MQ-7 and LCD.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/298 - UNO GAS Sensor MQ Series/UNO GAS Sensor MQ-7 with LCD/Arduino Gas Sensor MQ-7 and LCD.png",
+          "type": "image",
+          "filename": "Arduino Gas Sensor MQ-7 and LCD.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "299 - UNO GPS Sensor",
+      "project_name": "299 - UNO GPS Sensor",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/299 - UNO GPS Sensor/TinyGPSNew/Arduino GPS Sensor.png",
+          "type": "image",
+          "filename": "Arduino GPS Sensor.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "30 - 10_Channel_NRF_Transmitter_Receiver",
+      "project_name": "30 - 10_Channel_NRF_Transmitter_Receiver",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/30 - 10_Channel_NRF_Transmitter_Receiver/Diagrams/Receiver.png",
+          "type": "image",
+          "filename": "Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/30 - 10_Channel_NRF_Transmitter_Receiver/Diagrams/Transmitter.png",
+          "type": "image",
+          "filename": "Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "314 - UNO Stepper Motor",
+      "project_name": "314 - UNO Stepper Motor",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/314 - UNO Stepper Motor/UNO_L298_Stepper_1/UNO_L298_Stepper_1.png",
+          "type": "image",
+          "filename": "UNO_L298_Stepper_1.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/314 - UNO Stepper Motor/UNO_L298_Stepper_2/UNO_L298_Stepper_Button.png",
+          "type": "image",
+          "filename": "UNO_L298_Stepper_Button.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "318 - UNO_DC_Motor",
+      "project_name": "318 - UNO_DC_Motor",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "327 - ATMEGA328 Snake Game using Push Buttons and Dot Matrix",
+      "project_name": "327 - ATMEGA328 Snake Game using Push Buttons and Dot Matrix",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "36 - Arduino_and_GSM_based_Prepaid_Energy_Meter",
+      "project_name": "36 - Arduino_and_GSM_based_Prepaid_Energy_Meter",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/36 - Arduino_and_GSM_based_Prepaid_Energy_Meter/Arduino and GSM based Prepaid Energy Meter.jpg",
+          "type": "image",
+          "filename": "Arduino and GSM based Prepaid Energy Meter.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/36 - Arduino_and_GSM_based_Prepaid_Energy_Meter/Arduino and GSM based Prepaid Energy Meter.png",
+          "type": "image",
+          "filename": "Arduino and GSM based Prepaid Energy Meter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "369 - clock-phone",
+      "project_name": "369 - clock-phone",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "384 - Dual Axis Solar Tracker With Temperature and Humidity",
+      "project_name": "384 - Dual Axis Solar Tracker With Temperature and Humidity",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/384 - Dual Axis Solar Tracker With Temperature and Humidity/7e53ba3a21024e8eadac5e20646cea1e.png",
+          "type": "image",
+          "filename": "7e53ba3a21024e8eadac5e20646cea1e.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "39 - Arduino_pH_Meter",
+      "project_name": "39 - Arduino_pH_Meter",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/39 - Arduino_pH_Meter/Arduino based PH Sensor Interfacing and Calibration  Arduino pH Meter.png",
+          "type": "image",
+          "filename": "Arduino based PH Sensor Interfacing and Calibration  Arduino pH Meter.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/39 - Arduino_pH_Meter/Arduino based PH Sensor Interfacing and Calibration.png",
+          "type": "image",
+          "filename": "Arduino based PH Sensor Interfacing and Calibration.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "45 - Automatic_School_Bell_Controller",
+      "project_name": "45 - Automatic_School_Bell_Controller",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/45 - Automatic_School_Bell_Controller/how to make  Automatic School Bell Controller.png",
+          "type": "image",
+          "filename": "how to make  Automatic School Bell Controller.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/45 - Automatic_School_Bell_Controller/how to make Automatic School Bell Controller.png",
+          "type": "image",
+          "filename": "how to make Automatic School Bell Controller.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "458 - shift-register-7segment-count",
+      "project_name": "458 - shift-register-7segment-count",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/458 - shift-register-7segment-count/circuit.png",
+          "type": "image",
+          "filename": "circuit.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "50 - Balanced Robot",
+      "project_name": "50 - Balanced Robot",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/50 - Balanced Robot/Diagrams/Balanced Robot.png",
+          "type": "image",
+          "filename": "Balanced Robot.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "51 - Ball Beam Arduino Code HCSR-04",
+      "project_name": "51 - Ball Beam Arduino Code HCSR-04",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/51 - Ball Beam Arduino Code HCSR-04/Arduino Self Balancing Ball and Beam with PID Interface.jpg",
+          "type": "image",
+          "filename": "Arduino Self Balancing Ball and Beam with PID Interface.jpg",
+          "extension": ".jpg"
+        },
+        {
+          "path": "data/canonical/51 - Ball Beam Arduino Code HCSR-04/Arduino Self Balancing Ball and Beam with PID Interface.png",
+          "type": "image",
+          "filename": "Arduino Self Balancing Ball and Beam with PID Interface.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "52 - BLDC_Ardunio_ESC",
+      "project_name": "52 - BLDC_Ardunio_ESC",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/52 - BLDC_Ardunio_ESC/Sensorless BLDC motor control with Arduino  Arduino Brushless DC Speed Motor Control Without ESC.png",
+          "type": "image",
+          "filename": "Sensorless BLDC motor control with Arduino  Arduino Brushless DC Speed Motor Control Without ESC.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "53 - Bluetooth_Car_HC05_HCSR04",
+      "project_name": "53 - Bluetooth_Car_HC05_HCSR04",
+      "artifact_count": 0,
+      "artifacts": []
+    },
+    {
+      "project_id": "6 - DS1307_DS3231 Real Time Clock (RTC)",
+      "project_name": "6 - DS1307_DS3231 Real Time Clock (RTC)",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/6 - DS1307_DS3231 Real Time Clock (RTC)/Schematics/Schematics.png",
+          "type": "image",
+          "filename": "Schematics.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "61 - Cam_Control_Robot",
+      "project_name": "61 - Cam_Control_Robot",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/61 - Cam_Control_Robot/How to make a Android Mobile control Robot Camera using Arduino and L293d shield.png",
+          "type": "image",
+          "filename": "How to make a Android Mobile control Robot Camera using Arduino and L293d shield.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "63 - Camera_Car_With_PanTilt_Mecanum_Wheels",
+      "project_name": "63 - Camera_Car_With_PanTilt_Mecanum_Wheels",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/63 - Camera_Car_With_PanTilt_Mecanum_Wheels/Diagrams/Camera_Car_With_PanTilt_Mecanum_Wheels.png",
+          "type": "image",
+          "filename": "Camera_Car_With_PanTilt_Mecanum_Wheels.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "66 - Car_Parking_System_LCD",
+      "project_name": "66 - Car_Parking_System_LCD",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/66 - Car_Parking_System_LCD/How to make Car Parking System using Arduino and lcd display.png",
+          "type": "image",
+          "filename": "How to make Car Parking System using Arduino and lcd display.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/66 - Car_Parking_System_LCD/How to make Car Parking System using Arduino.png",
+          "type": "image",
+          "filename": "How to make Car Parking System using Arduino.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "71 - Countdown_Timer_With_7Segment",
+      "project_name": "71 - Countdown_Timer_With_7Segment",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/71 - Countdown_Timer_With_7Segment/How To Make Arduino Adjustable Countdown Timer with 7Segment Display.png",
+          "type": "image",
+          "filename": "How To Make Arduino Adjustable Countdown Timer with 7Segment Display.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/71 - Countdown_Timer_With_7Segment/How To Make a Arduino Adjustable Countdown Timer with 7Segment Display.png",
+          "type": "image",
+          "filename": "How To Make a Arduino Adjustable Countdown Timer with 7Segment Display.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "79 - DC_Motor_Speed_Controller",
+      "project_name": "79 - DC_Motor_Speed_Controller",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/79 - DC_Motor_Speed_Controller/How To Make a DC Motor Speed Controller using Arduino and L298 Motor Driver.png",
+          "type": "image",
+          "filename": "How To Make a DC Motor Speed Controller using Arduino and L298 Motor Driver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/79 - DC_Motor_Speed_Controller/How To Make a DC Motor Speed Controller.png",
+          "type": "image",
+          "filename": "How To Make a DC Motor Speed Controller.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "8 - HC-SR04 Ultrasonic",
+      "project_name": "8 - HC-SR04 Ultrasonic",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/8 - HC-SR04 Ultrasonic/Schematics/Schematics.png",
+          "type": "image",
+          "filename": "Schematics.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "84 - Digital_Weight_Scale",
+      "project_name": "84 - Digital_Weight_Scale",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/84 - Digital_Weight_Scale/Digital_Weight_Scale.jpg",
+          "type": "image",
+          "filename": "Digital_Weight_Scale.jpg",
+          "extension": ".jpg"
+        }
+      ]
+    },
+    {
+      "project_id": "88 - Dual_Axis_Solar_Tracker",
+      "project_name": "88 - Dual_Axis_Solar_Tracker",
+      "artifact_count": 4,
+      "artifacts": [
+        {
+          "path": "data/canonical/88 - Dual_Axis_Solar_Tracker/Cuting Design Bass.pdf",
+          "type": "pdf",
+          "filename": "Cuting Design Bass.pdf",
+          "extension": ".pdf"
+        },
+        {
+          "path": "data/canonical/88 - Dual_Axis_Solar_Tracker/Cuting_Design.pdf",
+          "type": "pdf",
+          "filename": "Cuting_Design.pdf",
+          "extension": ".pdf"
+        },
+        {
+          "path": "data/canonical/88 - Dual_Axis_Solar_Tracker/How to Make Dual Axis Solar Tracker without Arduino.png",
+          "type": "image",
+          "filename": "How to Make Dual Axis Solar Tracker without Arduino.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/88 - Dual_Axis_Solar_Tracker/How to Make a Dual Axis Solar Tracker without Arduino.png",
+          "type": "image",
+          "filename": "How to Make a Dual Axis Solar Tracker without Arduino.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "90 - ESP_AsyncWebServer_HomeAutomation",
+      "project_name": "90 - ESP_AsyncWebServer_HomeAutomation",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/90 - ESP_AsyncWebServer_HomeAutomation/Diagrams/ESP_AsyncWebServer_HomeAutomation.png",
+          "type": "image",
+          "filename": "ESP_AsyncWebServer_HomeAutomation.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "93 - ESPNOW_Car",
+      "project_name": "93 - ESPNOW_Car",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/93 - ESPNOW_Car/Diagrams/ESPNOW Car Receiver.png",
+          "type": "image",
+          "filename": "ESPNOW Car Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/93 - ESPNOW_Car/Diagrams/ESPNOW Car Transmitter.png",
+          "type": "image",
+          "filename": "ESPNOW Car Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "94 - ESPNOW_Multiple_Cars",
+      "project_name": "94 - ESPNOW_Multiple_Cars",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/94 - ESPNOW_Multiple_Cars/Diagrams/ESPNOW Car Receiver.png",
+          "type": "image",
+          "filename": "ESPNOW Car Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/94 - ESPNOW_Multiple_Cars/Diagrams/ESPNOW Car Transmitter.png",
+          "type": "image",
+          "filename": "ESPNOW Car Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "95 - ESPNOW_RC_Tractor",
+      "project_name": "95 - ESPNOW_RC_Tractor",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/95 - ESPNOW_RC_Tractor/Diagrams/ESPNOW Car Receiver.png",
+          "type": "image",
+          "filename": "ESPNOW Car Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/95 - ESPNOW_RC_Tractor/Diagrams/ESPNOW Car Transmitter.png",
+          "type": "image",
+          "filename": "ESPNOW Car Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "96 - ESPNOW_Transmitter_Receiver",
+      "project_name": "96 - ESPNOW_Transmitter_Receiver",
+      "artifact_count": 2,
+      "artifacts": [
+        {
+          "path": "data/canonical/96 - ESPNOW_Transmitter_Receiver/Diagrams/ESPNOW Receiver.png",
+          "type": "image",
+          "filename": "ESPNOW Receiver.png",
+          "extension": ".png"
+        },
+        {
+          "path": "data/canonical/96 - ESPNOW_Transmitter_Receiver/Diagrams/ESPNOW Transmitter.png",
+          "type": "image",
+          "filename": "ESPNOW Transmitter.png",
+          "extension": ".png"
+        }
+      ]
+    },
+    {
+      "project_id": "97 - FingerPrint_Lock_System",
+      "project_name": "97 - FingerPrint_Lock_System",
+      "artifact_count": 1,
+      "artifacts": [
+        {
+          "path": "data/canonical/97 - FingerPrint_Lock_System/Diagrams/FingerPrint Lock System.png",
+          "type": "image",
+          "filename": "FingerPrint Lock System.png",
+          "extension": ".png"
+        }
+      ]
+    }
+  ]
+}

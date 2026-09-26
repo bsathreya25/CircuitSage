@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CircuitSage Canonical Project Record",
+  "type": "object",
+  "required": [
+    "project_id",
+    "project_name",
+    "category",
+    "source_files",
+    "artifact_files",
+    "libraries",
+    "interfaces",
+    "pins",
+    "components",
+    "diagnostic_signals",
+    "provenance"
+  ],
+  "properties": {
+    "project_id": {
+      "type": "integer"
+    },
+    "project_name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "source_files": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "artifact_files": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "libraries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "interfaces": {
+      "type": "object"
+    },
+    "pins": {
+      "type": "array"
+    },
+    "components": {
+      "type": "array"
+    },
+    "timing": {
+      "type": "object"
+    },
+    "diagnostic_signals": {
+      "type": "array"
+    },
+    "known_unknowns": {
+      "type": "array"
+    },
+    "provenance": {
+      "type": "object"
+    }
+  }
+}

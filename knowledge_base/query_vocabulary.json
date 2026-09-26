@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "aliases": {
+    "pulsein": [
+      "pulsein_echo",
+      "pulse_width_measurement"
+    ],
+    "pulse_in": [
+      "pulsein_echo",
+      "pulse_width_measurement"
+    ],
+    "pulse width": [
+      "pulse_width_measurement"
+    ],
+    "pulse width measurement": [
+      "pulse_width_measurement"
+    ],
+    "hc-sr04": [
+      "hc-sr04"
+    ],
+    "hcsr04": [
+      "hc-sr04"
+    ],
+    "ultrasonic": [
+      "hc-sr04"
+    ],
+    "dht11": [
+      "dht11"
+    ],
+    "dht22": [
+      "dht22"
+    ],
+    "mpu6050": [
+      "mpu6050"
+    ],
+    "i2c": [
+      "i2c"
+    ],
+    "spi": [
+      "spi"
+    ],
+    "uart": [
+      "uart"
+    ],
+    "serial": [
+      "uart",
+      "serial_communication"
+    ],
+    "sim900": [
+      "gsm"
+    ],
+    "sim900 gsm": [
+      "gsm"
+    ],
+    "gsm module": [
+      "gsm"
+    ],
+    "gsm communication": [
+      "gsm"
+    ],
+    "stepper": [
+      "stepper"
+    ],
+    "stepper motor": [
+      "stepper"
+    ],
+    "stepper motor control": [
+      "stepper"
+    ],
+    "a4988": [
+      "stepper"
+    ],
+    "stepper a4988": [
+      "stepper"
+    ],
+    "l298": [
+      "stepper"
+    ],
+    "stepper l298": [
+      "stepper"
+    ]
+  }
+}

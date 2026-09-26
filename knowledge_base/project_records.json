@@ -1,0 +1,156 @@
+[
+    {
+        "project_name": "test_hcsr04",
+        "components": [],
+        "libraries": [],
+        "pins": {
+            "TRIG_PIN": "9",
+            "ECHO_PIN": "10"
+        },
+        "pin_modes": {
+            "TRIG_PIN": "OUTPUT",
+            "ECHO_PIN": "INPUT"
+        },
+        "interfaces": [
+            "UART/Serial"
+        ],
+        "operations": {
+            "digital": [
+                {
+                    "type": "digitalWrite",
+                    "pin": "TRIG_PIN",
+                    "value": "LOW"
+                },
+                {
+                    "type": "digitalWrite",
+                    "pin": "TRIG_PIN",
+                    "value": "HIGH"
+                },
+                {
+                    "type": "digitalWrite",
+                    "pin": "TRIG_PIN",
+                    "value": "LOW"
+                }
+            ],
+            "analog": []
+        },
+        "timing": {
+            "delay_ms": [
+                500
+            ],
+            "delay_microseconds": [
+                2,
+                10
+            ],
+            "pulseIn": [
+                {
+                    "pin": "ECHO_PIN",
+                    "state": "HIGH"
+                }
+            ]
+        },
+        "baud_rate": 9600,
+        "defines": {
+            "TRIG_PIN": "9",
+            "ECHO_PIN": "10"
+        },
+        "code_file": "data/test_hcsr04/example.ino",
+        "schematic_file": "data/test_hcsr04/Schematics.png"
+    },
+    {
+        "project_name": "test_project",
+        "components": [
+            "DHT11"
+        ],
+        "libraries": [
+            "DHT.h"
+        ],
+        "pins": {
+            "DHTPIN": "2"
+        },
+        "pin_modes": {},
+        "interfaces": [
+            "UART/Serial"
+        ],
+        "operations": {
+            "digital": [],
+            "analog": []
+        },
+        "timing": {
+            "delay_ms": [
+                2000
+            ],
+            "delay_microseconds": [],
+            "pulseIn": []
+        },
+        "baud_rate": 9600,
+        "defines": {
+            "DHTPIN": "2",
+            "DHTTYPE": "DHT11"
+        },
+        "code_file": "data/test_project/example.ino",
+        "schematic_file": null,
+        "data_pin": "2",
+        "sensor": "DHT11"
+    },
+    {
+        "project_name": "Ultrasonic_Sensor_HC-SR04",
+        "components": [
+            "HC-SR04"
+        ],
+        "libraries": [],
+        "pins": {
+            "trigPin": "11",
+            "echoPin": "12"
+        },
+        "pin_modes": {
+            "trigPin": "OUTPUT",
+            "echoPin": "INPUT"
+        },
+        "interfaces": [
+            "UART/Serial"
+        ],
+        "operations": {
+            "digital": [
+                {
+                    "type": "digitalWrite",
+                    "pin": "trigPin",
+                    "value": "LOW"
+                },
+                {
+                    "type": "digitalWrite",
+                    "pin": "trigPin",
+                    "value": "HIGH"
+                },
+                {
+                    "type": "digitalWrite",
+                    "pin": "trigPin",
+                    "value": "LOW"
+                }
+            ],
+            "analog": []
+        },
+        "timing": {
+            "delay_ms": [
+                250
+            ],
+            "delay_microseconds": [
+                5,
+                10
+            ],
+            "pulseIn": [
+                {
+                    "pin": "echoPin",
+                    "state": "HIGH"
+                }
+            ]
+        },
+        "baud_rate": 9600,
+        "defines": {},
+        "code_file": "data/Ultrasonic_Sensor_HC-SR04/Ultrasonic_Sensor_HC-SR04.ino",
+        "schematic_file": null,
+        "trigger_pin": "11",
+        "echo_pin": "12",
+        "sensor": "HC-SR04"
+    }
+]
