@@ -131,7 +131,7 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await fetch("/api/diagnose", {
+      const response = await fetch("https://circuitsage-api.onrender.com/diagnose", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -163,7 +163,7 @@ function App() {
         {
           role: "assistant",
           content:
-            "I couldn't connect to the CircuitSage diagnostic engine. Make sure the backend is running on port 8000.",
+            "I couldn't connect to the CircuitSage diagnostic engine. Please try again in a moment."
         },
       ]);
     } finally {
